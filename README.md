@@ -49,6 +49,7 @@ curl -X PUT http://localhost:8000/candidates/{id}/status \
   -H "Content-Type: application/json" \
   -d '{"status":"interview"}'
 ```
+<img width="1683" height="737" alt="image" src="https://github.com/user-attachments/assets/65868621-eb7f-4c10-8215-18db8becba57" />
 
 ## Valid statuses
 `applied` | `interview` | `selected` | `rejected`
